@@ -40,3 +40,5 @@ count: 1
 #environments:
 #  test:
 #    count: 2               # Number of tasks to run for the "test" environment.
+variables:
+  AWS_DEFAULT_REGION: us-east-1
