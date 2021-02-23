@@ -1,4 +1,4 @@
-# You can use any of these parameters to create conditions or mappings in your template.
+# You can use any of these parameters to create conditions or mappings in your template. Hi addon!
 Parameters:
   App:
     Type: String
